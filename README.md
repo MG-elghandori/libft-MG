@@ -1,7 +1,5 @@
 ## libft-MG
-La bibliothèque libft est un projet individuel de l’école 42 qui consiste à recréer certaines fonctions de la bibliothèque standard du langage C pour les projets futurs 
-et avoir une compréhension plus approfondie des structures de données et des algorithmes de base. Elle est divisée en quatre sections : fonctions libc, fonctions supplémentaires, fonctions bonus et fonctions personnelles. Les fonctions libc sont des fonctions de la bibliothèque standard du langage C, tandis que les fonctions supplémentaires et bonus sont des fonctions utiles pour les projets futurs. Les fonctions personnelles sont des fonctions que vous jugez utiles pour votre propre usage .
-Vous pouvez voir mon dépôt pour voir les méthodes que vous avez utilisées pour créer cette bibliothèque.
+The libft library is an individual project of the 42 school that aims to recreate some functions of the standard C library for future projects and to have a deeper understanding of data structures and basic algorithms. It is divided into four sections: libc functions, additional functions, bonus functions, and personal functions. The libc functions are functions from the standard C library, while the additional and bonus functions are useful for future projects. The personal functions are functions that you find useful for your own use. You can view your repository to see the methods you used to create this library.
 ## Language used 
  C
 ## social media :
